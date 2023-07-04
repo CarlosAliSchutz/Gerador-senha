@@ -9,6 +9,6 @@ Projeto desenvolvido utilizando HTML e CSS com a linguagem JavaScript.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/CarlosAliSchutz/PingPong/blob/main/img/Gerador.png)
+![App Screenshot](https://github.com/CarlosAliSchutz/Gerador-senha/blob/main/img/Gerador.png)
 
 

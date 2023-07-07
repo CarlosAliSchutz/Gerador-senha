@@ -5,7 +5,7 @@ Neste projeto fiz um gerador de senhas, afim de fixar melhor meus conhecimento H
 
 Projeto desenvolvido utilizando HTML e CSS com a linguagem JavaScript.
 
-
+Link: [carlosalischutz.github.io/Gerador-senha/](https://carlosalischutz.github.io/Gerador-senha/)
 
 ## Screenshots
 
